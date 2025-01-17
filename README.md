@@ -1,6 +1,6 @@
 # Shaik Sameer Hussain 👨‍💻
 
-[GitHub](https://github.com/Sameerq7) | [LinkedIn](https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/) | shaiksameerhussain2104@gmail.com | 📞 9121700886
+[GitHub](https://github.com/Sameerq7) | [LinkedIn](https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/) | shaiksameerhussain2104@gmail.com | 
 
 ## 👨‍💻 About Me
 I am a versatile software developer with a strong background in Python programming, algorithmic problem-solving, and backend development. My expertise spans across building scalable applications, optimizing systems, and implementing efficient algorithms. I am passionate about learning new technologies and contributing to open-source projects.
@@ -30,7 +30,7 @@ I enjoy tackling complex problems, enhancing AI/ML systems, and collaborating on
 
 ### **[Project Document Creator](https://github.com/Sameerq7/ProjectDocumentCreator)**
 - Automated tool for generating project documentation based on user input, with email verification and admin approval.
-- Deployed on Render for seamless usage by students.
+- Deployed on [Render](https://project-document-creator.onrender.com/) for seamless usage by students.
 
 ## ✅ Completed Projects
 
