@@ -57,7 +57,6 @@ I enjoy tackling complex problems, enhancing AI/ML systems, and collaborating on
 - **CodeChef Two-Star Coder**: 350+ problems solved.
 - **LeetCode Rating**: 1500+ rating.
 - **Smart India Hackathon**: Secured third position at the college level.
-- **CTF (Capture the Flag)**: Top 10 finish at The Hackers Meetup.
 - Multiple hackathon participations, including HackTheRevolution, HackTheVerse.
 - **Second Prize**: Idea submission at VJIT College.
 - **Multiple Project Expos**: Award-winning projects in college and other institutions.
