@@ -1,6 +1,6 @@
 # Shaik Sameer Hussain 👨‍💻
 
-[GitHub](https://github.com/Sameerq7) | [LinkedIn](https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/) | shaiksameerhussain2104@gmail.com | 
+[GitHub](https://github.com/Sameerq7) | [LinkedIn](https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/) | [Portfolio](https://shaiksameerhussain.vercel.app) 
 
 ## 👨‍💻 About Me
 I am a versatile software developer with a strong background in Python programming, algorithmic problem-solving, and backend development. My expertise spans across building scalable applications, optimizing systems, and implementing efficient algorithms. I am passionate about learning new technologies and contributing to open-source projects.
@@ -69,6 +69,9 @@ I enjoy tackling complex problems, enhancing AI/ML systems, and collaborating on
 Feel free to reach out to me via:
 - Email: [shaiksameerhussain2104@gmail.com](mailto:shaiksameerhussain2104@gmail.com)
 - LinkedIn: [shaik-sameer-hussain](https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/)
+
+## 🌐 Portfolio
+Check out my portfolio [here](https://shaiksameerhussain.vercel.app/).
 
 ---
 
