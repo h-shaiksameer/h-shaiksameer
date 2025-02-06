@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome+to+Shaik+Sameer+Hussain's+Profile!;AI+|+DevOps+|+Full+Stack+Developer;Innovator+and+Problem+Solver&center=true&width=380&height=45">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Shaik+Sameer+Hussain's+Profile!;AI+|+DevOps+|+Full+Stack+Developer;Innovator+and+Problem+Solver&center=true&width=380&height=45">
 </div>
 
 <h1 align="center">
@@ -115,12 +115,12 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Sameerq7/Plastic-Detection-Scanner">
+      <a href="[https://github.com/Sameerq7/Plastic-Detection-Scanner](https://github.com/Sameerq7/Plastic_Detection_Scanner)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=Plastic-Detection-Scanner&theme=radical" alt="Plastic Detection Scanner">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sameerq7/StudentDoubtHub">
+      <a href=["https://github.com/Sameerq7/StudentDoubtHub](https://github.com/Sameerq7/Streamline-Doubt-Resolution)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=StudentDoubtHub&theme=radical" alt="Student Doubt Hub">
       </a>
     </td>
