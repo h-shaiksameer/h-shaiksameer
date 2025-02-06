@@ -115,12 +115,12 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="[https://github.com/Sameerq7/Plastic-Detection-Scanner](https://github.com/Sameerq7/Plastic_Detection_Scanner)">
+      <a href="https://github.com/Sameerq7/Plastic-Detection-Scanner">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=Plastic-Detection-Scanner&theme=radical" alt="Plastic Detection Scanner">
       </a>
     </td>
     <td align="center">
-      <a href=["https://github.com/Sameerq7/StudentDoubtHub](https://github.com/Sameerq7/Streamline-Doubt-Resolution)">
+      <a href="https://github.com/Sameerq7/StudentDoubtHub">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=StudentDoubtHub&theme=radical" alt="Student Doubt Hub">
       </a>
     </td>
