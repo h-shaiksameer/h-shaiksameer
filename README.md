@@ -115,13 +115,20 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Sameerq7/Plastic-Detection-Scanner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=Plastic-Detection-Scanner&theme=radical" alt="Plastic Detection Scanner">
+      <a href="https://github.com/Sameerq7/Project-Document-Creator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=Project-Document-Creator&theme=radical" alt="Project Document Creator">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sameerq7/StudentDoubtHub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=StudentDoubtHub&theme=radical" alt="Student Doubt Hub">
+      <a href="https://github.com/Sameerq7/Code-Editor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=Code-Editor&theme=radical" alt="Code Editor">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Sameerq7/AI-Driven-Comprehensive-Personal-Assistance-and-Development">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sameerq7&repo=AI-Driven-Comprehensive-Personal-Assistance-and-Development&theme=radical" alt="AI-Driven Personal Assistant">
       </a>
     </td>
   </tr>
