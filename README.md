@@ -1,5 +1,6 @@
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Shaik+Sameer+Hussain's+Profile!;AI+|+DevOps+|+Full+Stack+Developer;Innovator+and+Problem+Solver&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Shaik+Sameer+Hussain's+Profile!;AI+|+DevOps+|+Full+Stack+Developer;Innovator+and+Problem+Solver&center=true&width=600&height=45">
+
 </div>
 
 <h1 align="center">
@@ -175,5 +176,5 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+amazing+together!&center=true&width=600&height=45">
 </div>
