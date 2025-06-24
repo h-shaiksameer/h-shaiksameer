@@ -248,14 +248,6 @@
   </tr>
 </table>
 
-### 📈 **Project Statistics**
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Projects-20%2B-FF0080?style=for-the-badge&logo=git&logoColor=white" alt="Total Projects">
-  <img src="https://img.shields.io/badge/Active%20Repos-15%2B-00C851?style=for-the-badge&logo=github&logoColor=white" alt="Active Repos">
-  <img src="https://img.shields.io/badge/Languages%20Used-8%2B-4285F4?style=for-the-badge&logo=code&logoColor=white" alt="Languages Used">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source">
-</div>
-
 </div>
 
 <div align="center">
@@ -283,7 +275,6 @@
 ### 📈 **GitHub Achievements**
 <p>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
-  <img src="https://img.shields.io/badge/Projects-20%2B-FF0080?style=for-the-badge&logo=git&logoColor=white" alt="Projects">
   <img src="https://img.shields.io/badge/Community-Active-7B68EE?style=for-the-badge&logo=community&logoColor=white" alt="Community">
 </p>
 
@@ -316,53 +307,64 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Visitor's Guestbook
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 📝 Visitor's Guestbook
 
 <div align="center">
-  <h3>📝 Leave a Message!</h3>
+  <h3>🌟 Leave Your Mark!</h3>
   <p>
-    <b>Thanks for visiting my profile! Feel free to connect and leave your thoughts.</b><br>
-    <i>Click the badge below to sign my guestbook:</i>
+    <b>Thanks for visiting my profile! I'd love to hear from you.</b><br>
+    <i>Click below to leave a message in my guestbook:</i>
   </p>
   
-  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues/new?assignees=h-shaiksameer&labels=guestbook&template=guestbook-entry.md&title=Guestbook+Entry">
-    <img src="https://img.shields.io/badge/📝%20Sign%20My%20Guestbook-Click%20Here-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook">
+  <!-- Working Guestbook Links -->
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/discussions/new?category=guestbook">
+    <img src="https://img.shields.io/badge/💬%20Sign%20My%20Guestbook-GitHub%20Discussions-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook">
   </a>
   
   <br><br>
   
-  <!-- Recent Guestbook Entries -->
-  <details>
-    <summary><b>🌟 Recent Guestbook Entries</b></summary>
-    <br>
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/discussions/categories/guestbook">
+    <img src="https://img.shields.io/badge/👀%20View%20All%20Messages-See%20Guestbook-4CAF50?style=for-the-badge&logo=eye&logoColor=white" alt="View Guestbook">
+  </a>
+  
+  <br><br>
+  
+  <!-- Alternative Simple Guestbook via Issues -->
+  <p><b>Or leave a quick message via GitHub Issues:</b></p>
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues/new?assignees=h-shaiksameer&labels=guestbook%2C+message&template=guestbook.md&title=%F0%9F%93%9D+Guestbook+Entry+-+%5BYour+Name%5D">
+    <img src="https://img.shields.io/badge/✍️%20Quick%20Message-GitHub%20Issues-orange?style=for-the-badge&logo=github&logoColor=white" alt="Quick Message">
+  </a>
+  
+  <br><br>
+  
+  <!-- Guestbook Instructions -->
+  <h4>📋 How to Sign:</h4>
+  <p align="left">
+    <b>Via Discussions (Recommended):</b><br>
+    1️⃣ Click "Sign My Guestbook" above<br>
+    2️⃣ Choose "Guestbook" category<br>
+    3️⃣ Write your message and click "Start Discussion"<br><br>
     
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/👤%20Visitor%201-Thanks%20for%20the%20amazing%20projects!-success?style=flat-square" alt="Visitor 1">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/👤%20Visitor%202-Love%20your%20AI%20work!-blue?style=flat-square" alt="Visitor 2">
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/👤%20Visitor%203-Inspiring%20profile!-orange?style=flat-square" alt="Visitor 3">
-        </td>
-      </tr>
-    </table>
-    
-  </details>
+    <b>Via Issues (Quick):</b><br>
+    1️⃣ Click "Quick Message" above<br>
+    2️⃣ Fill in the template<br>
+    3️⃣ Submit the issue<br>
+  </p>
   
   <br>
   
-  <!-- Guestbook Stats -->
+  <!-- Real Guestbook Stats -->
+  <h4>📊 Guestbook Stats:</h4>
   <p>
-    <img src="https://img.shields.io/badge/Total%20Visitors-500%2B-brightgreen?style=for-the-badge&logo=users&logoColor=white" alt="Total Visitors">
-    <img src="https://img.shields.io/badge/Guestbook%20Entries-25%2B-blue?style=for-the-badge&logo=message-square&logoColor=white" alt="Guestbook Entries">
-    <img src="https://img.shields.io/badge/Response%20Rate-100%25-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Response Rate">
+    <img src="https://img.shields.io/github/discussions/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Total%20Discussions&color=blue" alt="Total Discussions">
+    <img src="https://img.shields.io/github/issues/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Total%20Issues&color=green" alt="Total Issues">
+  </p>
+  
+  <!-- Recent Activity -->
+  <h4>🔥 Recent Activity:</h4>
+  <p>
+    <img src="https://img.shields.io/github/last-commit/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Last%20Updated&color=purple" alt="Last Updated">
+    <img src="https://img.shields.io/github/commit-activity/m/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Monthly%20Commits&color=red" alt="Monthly Commits">
   </p>
 </div>
 
