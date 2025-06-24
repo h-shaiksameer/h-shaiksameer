@@ -1,0 +1,63 @@
+title: "📝 Guestbook Entry"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 👋 Welcome to my Guestbook!
+        Thanks for visiting my profile! I'd love to hear from you.
+        
+  - type: input
+    id: name
+    attributes:
+      label: "Your Name"
+      description: "What should I call you?"
+      placeholder: "John Doe"
+    validations:
+      required: true
+      
+  - type: input
+    id: location
+    attributes:
+      label: "Location"
+      description: "Where are you from?"
+      placeholder: "New York, USA"
+    validations:
+      required: false
+      
+  - type: textarea
+    id: message
+    attributes:
+      label: "Your Message"
+      description: "Leave your message here!"
+      placeholder: "Hi Sameer! Love your projects..."
+    validations:
+      required: true
+      
+  - type: input
+    id: github
+    attributes:
+      label: "GitHub Username"
+      description: "Your GitHub username (optional)"
+      placeholder: "@username"
+    validations:
+      required: false
+      
+  - type: input
+    id: linkedin
+    attributes:
+      label: "LinkedIn"
+      description: "Your LinkedIn profile (optional)"
+      placeholder: "https://linkedin.com/in/username"
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: connect
+    attributes:
+      label: "Connect with me"
+      description: "How would you like to connect?"
+      options:
+        - label: "Follow on GitHub"
+        - label: "Connect on LinkedIn"
+        - label: "Collaborate on projects"
+        - label: "Just saying hi!"
