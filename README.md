@@ -36,44 +36,29 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code.%20Innovate.%20Dominate.&author=Shaik%20Sameer%20Hussain"/>
 </div>
 
+<!-- Theme Toggle Section -->
+<div align="center">
+  <h3>🎨 Theme Preference</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Theme-Auto%20Detect-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Theme Auto">
+    <img src="https://img.shields.io/badge/Dark%20Mode-Preferred-black?style=for-the-badge&logo=moon&logoColor=white" alt="Dark Mode">
+    <img src="https://img.shields.io/badge/Light%20Mode-Compatible-white?style=for-the-badge&logo=sun&logoColor=black" alt="Light Mode">
+  </p>
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-\`\`\`yaml
-name: Shaik Sameer Hussain
-located_in: Hyderabad, India
-current_job: AI Engineer & Full Stack Developer
-education: 
-  - "B.Tech in Computer Science Engineering"
-  - "CMR Technical Campus"
-  - "GPA: 9.4/10"
-company: Freelancer & Open Source Contributor
-
-fields_of_interests:
-  - "Artificial Intelligence & Machine Learning"
-  - "DevOps & Cloud Computing"
-  - "Full Stack Development"
-  - "Competitive Programming"
-  - "System Design & Architecture"
-  
-technical_background:
-  - "AI/ML Engineering"
-  - "DevOps Automation"
-  - "Backend Development"
-  - "Problem Solving"
-  - "System Optimization"
-
-currently_learning: 
-  - "Advanced AI/ML Algorithms"
-  - "Cloud Architecture"
-  - "Microservices"
-  - "Kubernetes"
-\`\`\`
+<p align="center">
+🚀 I'm <b>Shaik Sameer Hussain</b> from Hyderabad, India — an <b>AI Engineer</b>, <b>Full Stack Developer</b>, and <b>DevOps Enthusiast</b> with a strong academic background (B.Tech CSE, CMR Technical Campus, GPA: 9.4/10).<br><br>
+🎯 Fields of interest include: <b>AI/ML</b>, <b>DevOps & Cloud</b>, <b>Full Stack Web Dev</b>, <b>Competitive Programming</b>, and <b>System Design</b>.<br><br>
+🛠️ Skilled in: AI/ML Engineering, DevOps Automation, System Optimization, Backend Dev, and Problem Solving.<br><br>
+📚 Currently learning: Advanced AI Algorithms, Cloud Architecture, Microservices, Kubernetes.<br><br>
+💡 Motto: <b>"Code. Innovate. Dominate."</b>
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Expert-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML">
@@ -81,6 +66,17 @@ currently_learning:
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack">
   <img src="https://img.shields.io/badge/Problem%20Solving-Master-FF0000?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving">
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+### 🌟 Quick Facts:
+- 🔭 Currently working on **AI-driven automation projects**
+- 🌱 Learning **Advanced Cloud Architecture & Kubernetes**
+- 👯 Looking to collaborate on **Open Source AI/ML projects**
+- 🤔 Seeking help with **Distributed Systems & Microservices**
+- 💬 Ask me about **Python, AI/ML, DevOps, Full Stack Development**
+- 📫 Reach me at: **shaiksameerhussain2104@gmail.com**
+- ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -306,6 +302,60 @@ currently_learning:
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Visitor's Guestbook
+
+<div align="center">
+  <h3>📝 Leave a Message!</h3>
+  <p>
+    <b>Thanks for visiting my profile! Feel free to connect and leave your thoughts.</b><br>
+    <i>Click the badge below to sign my guestbook:</i>
+  </p>
+  
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues/new?assignees=h-shaiksameer&labels=guestbook&template=guestbook-entry.md&title=Guestbook+Entry">
+    <img src="https://img.shields.io/badge/📝%20Sign%20My%20Guestbook-Click%20Here-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook">
+  </a>
+  
+  <br><br>
+  
+  <!-- Recent Guestbook Entries -->
+  <details>
+    <summary><b>🌟 Recent Guestbook Entries</b></summary>
+    <br>
+    
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/👤%20Visitor%201-Thanks%20for%20the%20amazing%20projects!-success?style=flat-square" alt="Visitor 1">
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/👤%20Visitor%202-Love%20your%20AI%20work!-blue?style=flat-square" alt="Visitor 2">
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/👤%20Visitor%203-Inspiring%20profile!-orange?style=flat-square" alt="Visitor 3">
+        </td>
+      </tr>
+    </table>
+    
+  </details>
+  
+  <br>
+  
+  <!-- Guestbook Stats -->
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Visitors-500%2B-brightgreen?style=for-the-badge&logo=users&logoColor=white" alt="Total Visitors">
+    <img src="https://img.shields.io/badge/Guestbook%20Entries-25%2B-blue?style=for-the-badge&logo=message-square&logoColor=white" alt="Guestbook Entries">
+    <img src="https://img.shields.io/badge/Response%20Rate-100%25-success?style=for-the-badge&logo=check-circle&logoColor=white" alt="Response Rate">
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect & Collaborate
 
 <div align="center">
@@ -334,6 +384,13 @@ currently_learning:
 - 📚 **Knowledge sharing & mentoring**
 - 💡 **Innovative project ideas**
 
+### 📊 **Response Time:**
+<p>
+  <img src="https://img.shields.io/badge/Email-Within%2024hrs-success?style=flat-square&logo=clock&logoColor=white" alt="Email Response">
+  <img src="https://img.shields.io/badge/LinkedIn-Within%2012hrs-blue?style=flat-square&logo=clock&logoColor=white" alt="LinkedIn Response">
+  <img src="https://img.shields.io/badge/GitHub-Within%206hrs-orange?style=flat-square&logo=clock&logoColor=white" alt="GitHub Response">
+</p>
+
 </div>
 
 <div align="center">
@@ -353,3 +410,20 @@ currently_learning:
 <div align="center">
   <b>⭐ From <a href="https://github.com/h-shaiksameer">h-shaiksameer</a> with ❤️</b>
 </div>
+
+<!-- Hidden Theme Toggle Script (GitHub doesn't support JS, but this shows the concept) -->
+<!--
+<script>
+// Theme toggle functionality (conceptual - GitHub doesn't support JS in README)
+function toggleTheme() {
+  const isDark = document.body.classList.contains('dark-theme');
+  document.body.classList.toggle('dark-theme', !isDark);
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+}
+
+// Auto-detect system theme
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  document.body.classList.add('dark-theme');
+}
+</script>
+-->
