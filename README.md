@@ -310,62 +310,58 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 📝 Visitor's Guestbook
 
 <div align="center">
-  <h3>🌟 Leave Your Mark!</h3>
-  <p>
-    <b>Thanks for visiting my profile! I'd love to hear from you.</b><br>
-    <i>Click below to leave a message in my guestbook:</i>
-  </p>
-  
-  <!-- Working Guestbook Links -->
-  <a href="https://github.com/h-shaiksameer/h-shaiksameer/discussions/new?category=guestbook">
-    <img src="https://img.shields.io/badge/💬%20Sign%20My%20Guestbook-GitHub%20Discussions-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook">
+
+### 🌟 Leave Your Mark!
+
+**Thanks for visiting my profile! I'd love to hear from you.**
+
+**Choose your preferred way to sign my guestbook:**
+
+</div>
+
+---
+
+### 📝 **Method 1: GitHub Issues (Recommended)**
+
+<div align="center">
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues/new?assignees=h-shaiksameer&labels=guestbook&title=Guestbook%20Entry%20-%20Your%20Name&body=%23%23%20%F0%9F%91%8B%20Hello!%0A%0A**Your%20Name:**%20%0A**From:**%20%0A**GitHub:**%20@%0A%0A%23%23%20%F0%9F%92%AC%20Your%20Message%0A%3C!--%20Write%20your%20message%20here%20--%3E%0A%0A%0A%23%23%20%F0%9F%94%97%20Connect%20(Optional)%0A**LinkedIn:**%20%0A**Twitter:**%20%0A**Website:**%20%0A%0A---%0A*Thanks%20for%20visiting%20my%20profile!%20I'll%20respond%20to%20your%20message%20soon.*%20%F0%9F%9A%80">
+    <img src="https://img.shields.io/badge/✍️%20Sign%20My%20Guestbook-GitHub%20Issues-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Sign Guestbook">
   </a>
-  
-  <br><br>
-  
-  <a href="https://github.com/h-shaiksameer/h-shaiksameer/discussions/categories/guestbook">
+</div>
+
+### 👀 **View All Messages**
+
+<div align="center">
+  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues?q=is%3Aissue+label%3Aguestbook">
     <img src="https://img.shields.io/badge/👀%20View%20All%20Messages-See%20Guestbook-4CAF50?style=for-the-badge&logo=eye&logoColor=white" alt="View Guestbook">
   </a>
-  
-  <br><br>
-  
-  <!-- Alternative Simple Guestbook via Issues -->
-  <p><b>Or leave a quick message via GitHub Issues:</b></p>
-  <a href="https://github.com/h-shaiksameer/h-shaiksameer/issues/new?assignees=h-shaiksameer&labels=guestbook%2C+message&template=guestbook.md&title=%F0%9F%93%9D+Guestbook+Entry+-+%5BYour+Name%5D">
-    <img src="https://img.shields.io/badge/✍️%20Quick%20Message-GitHub%20Issues-orange?style=for-the-badge&logo=github&logoColor=white" alt="Quick Message">
-  </a>
-  
-  <br><br>
-  
-  <!-- Guestbook Instructions -->
-  <h4>📋 How to Sign:</h4>
-  <p align="left">
-    <b>Via Discussions (Recommended):</b><br>
-    1️⃣ Click "Sign My Guestbook" above<br>
-    2️⃣ Choose "Guestbook" category<br>
-    3️⃣ Write your message and click "Start Discussion"<br><br>
-    
-    <b>Via Issues (Quick):</b><br>
-    1️⃣ Click "Quick Message" above<br>
-    2️⃣ Fill in the template<br>
-    3️⃣ Submit the issue<br>
-  </p>
-  
-  <br>
-  
-  <!-- Real Guestbook Stats -->
-  <h4>📊 Guestbook Stats:</h4>
-  <p>
-    <img src="https://img.shields.io/github/discussions/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Total%20Discussions&color=blue" alt="Total Discussions">
-    <img src="https://img.shields.io/github/issues/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Total%20Issues&color=green" alt="Total Issues">
-  </p>
-  
-  <!-- Recent Activity -->
-  <h4>🔥 Recent Activity:</h4>
-  <p>
-    <img src="https://img.shields.io/github/last-commit/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Last%20Updated&color=purple" alt="Last Updated">
-    <img src="https://img.shields.io/github/commit-activity/m/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Monthly%20Commits&color=red" alt="Monthly Commits">
-  </p>
+</div>
+
+---
+
+### 📋 **How to Sign:**
+
+**Step 1:** Click "Sign My Guestbook" button above  
+**Step 2:** Fill in your details in the pre-filled template  
+**Step 3:** Click "Submit new issue"  
+**Step 4:** I'll respond to your message soon! 🚀
+
+---
+
+### 📊 **Guestbook Statistics:**
+
+<div align="center">
+  <img src="https://img.shields.io/github/issues-closed/h-shaiksameer/h-shaiksameer?label=Messages%20Received&style=for-the-badge&logo=message-square&color=success" alt="Messages Received">
+  <img src="https://img.shields.io/github/issues/h-shaiksameer/h-shaiksameer?label=Active%20Conversations&style=for-the-badge&logo=chat&color=blue" alt="Active Conversations">
+</div>
+
+---
+
+### 🔥 **Recent Activity:**
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/h-shaiksameer/h-shaiksameer?style=for-the-badge&logo=github&label=Last%20Updated&color=purple" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Response%20Time-Within%2024hrs-success?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time">
 </div>
 
 <div align="center">
