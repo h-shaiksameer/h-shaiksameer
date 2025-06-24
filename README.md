@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/sameerq7"><img src="https://img.shields.io/github/followers/sameerq7?label=Followers&style=social&logo=github" alt="GitHub Badge"></a>
+  <a href="https://github.com/h-shaiksameer"><img src="https://img.shields.io/github/followers/h-shaiksameer?label=Followers&style=social&logo=github" alt="GitHub Badge"></a>
   <a href="https://leetcode.com/Sameerq7"><img src="https://img.shields.io/badge/LeetCode-1500%2B-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Badge"></a>
   <a href="https://shaiksameerhussain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio Badge"></a>
   <a href="https://www.linkedin.com/in/shaik-sameer-hussain-b88323250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameerq7&label=Profile%20Views&color=58A6FF&style=flat-square&logo=github" alt="Profile Views">
-  <img src="https://img.shields.io/github/stars/sameerq7?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Stars&color=FFD700" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=h-shaiksameer&label=Profile%20Views&color=58A6FF&style=flat-square&logo=github" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/h-shaiksameer?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Stars&color=FFD700" alt="Total Stars">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Innovation-FF6B6B?style=flat-square&logo=target&logoColor=white" alt="Focus">
 </p>
 
@@ -165,31 +165,34 @@
 
 <div align="center">
 
-### 🌟 **Flagship Projects**
+### 🌟 **My Project Portfolio**
 
+<!-- Project Cards with Fallback Design -->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 JARVIS 2.0</h3>
-      <div align="center">  
-        <a href="https://github.com/sameerq7/JARVIS-2.0" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerq7&repo=JARVIS-2.0&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="JARVIS-2.0"/>
+      <div align="center">
+        <h3>🤖 JARVIS 2.0</h3>
+        <a href="https://github.com/h-shaiksameer/JARVIS-2.0">
+          <img src="https://img.shields.io/badge/🤖%20JARVIS%202.0-AI%20Virtual%20Assistant-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="JARVIS 2.0"/>
         </a>
-        <br>
-        <p><b>AI-Powered Virtual Assistant</b></p>
+        <br><br>
+        <p><b>🎯 AI-Powered Virtual Assistant</b></p>
+        <p>Advanced AI assistant with natural language processing, voice recognition, and automation capabilities.</p>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
         <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=robot&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-4ECDC4?style=flat-square&logo=natural-language-processing&logoColor=white"/>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">⚙️ DevOps CodeSmith</h3>
       <div align="center">
-        <a href="https://github.com/sameerq7/DevOpsCodeSmith-with-MultiLingual-Support" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerq7&repo=DevOpsCodeSmith-with-MultiLingual-Support&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="DevOps CodeSmith"/>
+        <h3>⚙️ DevOps CodeSmith</h3>
+        <a href="https://github.com/h-shaiksameer/DevOpsCodeSmith-with-MultiLingual-Support">
+          <img src="https://img.shields.io/badge/⚙️%20DevOps%20CodeSmith-Multi%20Lingual%20Automation-FF6B35?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps CodeSmith"/>
         </a>
-        <br>
-        <p><b>Multi-Lingual DevOps Automation</b></p>
+        <br><br>
+        <p><b>🎯 Multi-Lingual DevOps Automation</b></p>
+        <p>Comprehensive DevOps toolkit with multi-language support for CI/CD pipeline automation.</p>
         <img src="https://img.shields.io/badge/DevOps-FF6B35?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Automation-45B7D1?style=flat-square&logo=automation&logoColor=white"/>
         <img src="https://img.shields.io/badge/Multi--Lang-96CEB4?style=flat-square&logo=translate&logoColor=white"/>
@@ -198,26 +201,28 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📄 Project Document Creator</h3>
       <div align="center">
-        <a href="https://github.com/sameerq7/Project-Document-Creator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerq7&repo=Project-Document-Creator&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="Project Document Creator"/>
+        <h3>📄 Project Document Creator</h3>
+        <a href="https://github.com/h-shaiksameer/Project-Document-Creator">
+          <img src="https://img.shields.io/badge/📄%20Doc%20Creator-Automated%20Documentation-45B7D1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Project Document Creator"/>
         </a>
-        <br>
-        <p><b>Automated Documentation Generator</b></p>
+        <br><br>
+        <p><b>🎯 Automated Documentation Generator</b></p>
+        <p>Smart tool for generating comprehensive project documentation with AI assistance.</p>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
         <img src="https://img.shields.io/badge/Automation-45B7D1?style=flat-square&logo=automation&logoColor=white"/>
         <img src="https://img.shields.io/badge/Documentation-FF9500?style=flat-square&logo=gitbook&logoColor=white"/>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💻 Advanced Code Editor</h3>
       <div align="center">
-        <a href="https://github.com/sameerq7/Code-Editor" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerq7&repo=Code-Editor&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="Code Editor"/>
+        <h3>💻 Advanced Code Editor</h3>
+        <a href="https://github.com/h-shaiksameer/Code-Editor">
+          <img src="https://img.shields.io/badge/💻%20Code%20Editor-Web%20Based%20IDE-61DAFB?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="Code Editor"/>
         </a>
-        <br>
-        <p><b>Feature-Rich Web-Based IDE</b></p>
+        <br><br>
+        <p><b>🎯 Feature-Rich Web-Based IDE</b></p>
+        <p>Modern web-based code editor with syntax highlighting, auto-completion, and live preview.</p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Web--IDE-61DAFB?style=flat-square&logo=visual-studio-code&logoColor=black"/>
         <img src="https://img.shields.io/badge/Frontend-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -226,13 +231,14 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3 align="center">🧠 AI-Driven Personal Assistant</h3>
       <div align="center">
-        <a href="https://github.com/sameerq7/AI-Driven-Comprehensive-Personal-Assistance-and-Development" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameerq7&repo=AI-Driven-Comprehensive-Personal-Assistance-and-Development&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="AI-Driven Personal Assistant"/>
+        <h3>🧠 AI-Driven Personal Assistant</h3>
+        <a href="https://github.com/h-shaiksameer/AI-Driven-Comprehensive-Personal-Assistance-and-Development">
+          <img src="https://img.shields.io/badge/🧠%20AI%20Personal%20Assistant-Comprehensive%20Development%20Platform-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Personal Assistant"/>
         </a>
-        <br>
-        <p><b>Comprehensive AI-Powered Personal Development Platform</b></p>
+        <br><br>
+        <p><b>🎯 Comprehensive AI-Powered Personal Development Platform</b></p>
+        <p>All-in-one AI platform for personal productivity, learning assistance, and development automation.</p>
         <img src="https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
         <img src="https://img.shields.io/badge/Personal--Dev-4ECDC4?style=flat-square&logo=user-check&logoColor=white"/>
@@ -241,6 +247,14 @@
     </td>
   </tr>
 </table>
+
+### 📈 **Project Statistics**
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Projects-20%2B-FF0080?style=for-the-badge&logo=git&logoColor=white" alt="Total Projects">
+  <img src="https://img.shields.io/badge/Active%20Repos-15%2B-00C851?style=for-the-badge&logo=github&logoColor=white" alt="Active Repos">
+  <img src="https://img.shields.io/badge/Languages%20Used-8%2B-4285F4?style=for-the-badge&logo=code&logoColor=white" alt="Languages Used">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source">
+</div>
 
 </div>
 
@@ -276,7 +290,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sameerq7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=h-shaiksameer&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
 <div align="center">
@@ -286,16 +300,16 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sameerq7&show_icons=true&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerq7&theme=tokyonight&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=38BDAE&sideNums=38BDAE&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE&border=70A5FD&border_radius=10" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=h-shaiksameer&show_icons=true&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=h-shaiksameer&theme=tokyonight&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=38BDAE&sideNums=38BDAE&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE&border=70A5FD&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerq7&layout=compact&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-shaiksameer&layout=compact&theme=tokyonight&bg_color=1A1B27&title_color=70A5FD&text_color=38BDAE&icon_color=70A5FD&border_color=70A5FD&border_radius=10&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerq7&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false&border_radius=10" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h-shaiksameer&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=70A5FD&point=38BDAE&area=true&hide_border=false&border_radius=10" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -410,20 +424,3 @@
 <div align="center">
   <b>⭐ From <a href="https://github.com/h-shaiksameer">h-shaiksameer</a> with ❤️</b>
 </div>
-
-<!-- Hidden Theme Toggle Script (GitHub doesn't support JS, but this shows the concept) -->
-<!--
-<script>
-// Theme toggle functionality (conceptual - GitHub doesn't support JS in README)
-function toggleTheme() {
-  const isDark = document.body.classList.contains('dark-theme');
-  document.body.classList.toggle('dark-theme', !isDark);
-  localStorage.setItem('theme', isDark ? 'light' : 'dark');
-}
-
-// Auto-detect system theme
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-  document.body.classList.add('dark-theme');
-}
-</script>
--->
